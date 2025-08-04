@@ -33,6 +33,9 @@ project_1/
 ├── requirements.txt         # Dependencias del proyecto
 └── README.md               # Documentación
 ```
+<img width="1080" height="1512" alt="image" src="https://github.com/user-attachments/assets/905da908-3e42-4aca-9fbc-a557b056162c" />
+
+
 
 ## 🚀 Instalación
 
