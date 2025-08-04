@@ -14,6 +14,8 @@ Este proyecto implementa un sistema RAG completo que:
 
 ## 🏗️ Arquitectura del Proyecto
 
+<img width="380" height="551" alt="image" src="https://github.com/user-attachments/assets/905da908-3e42-4aca-9fbc-a557b056162c" />
+
 ```
 project_1/
 ├── config.py                 # Configuración de modelos y parámetros
@@ -33,7 +35,7 @@ project_1/
 ├── requirements.txt         # Dependencias del proyecto
 └── README.md               # Documentación
 ```
-<img width="1080" height="1512" alt="image" src="https://github.com/user-attachments/assets/905da908-3e42-4aca-9fbc-a557b056162c" />
+
 
 
 
@@ -42,7 +44,7 @@ project_1/
 1. **Clonar el repositorio:**
    ```bash
    git clone <repository-url>
-   cd project_1
+   cd LLM_RAG
    ```
 
 2. **Crear entorno virtual:**
@@ -325,13 +327,5 @@ flake8
 - El **prompt incluye URLs de imágenes** cuando están disponibles
 - Las **respuestas se generan en inglés** según la configuración
 
-## 🚀 Próximos Pasos
 
-- [ ] Implementar cache de embeddings para consultas repetidas
-- [ ] Añadir autenticación a las APIs
-- [ ] Implementar rate limiting
-- [ ] Añadir métricas de rendimiento
-- [ ] Crear interfaz web
-- [ ] Implementar búsqueda por filtros adicionales
-- [ ] Añadir soporte para múltiples idiomas
 
